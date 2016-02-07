@@ -8,9 +8,9 @@ Time spent: **WIP** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Table rows for search results should be dynamic height according to the content height.
-- [ ] Custom cells should have the proper Auto Layout constraints.
-- [ ] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
+- [x] Table rows for search results should be dynamic height according to the content height.
+- [x] Custom cells should have the proper Auto Layout constraints.
+- [x] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does). (does search when search button is clicked, works when 'filter' is tapped and than 'cancel' or 'search' in filters view)
 
 The following **optional** features are implemented:
 
@@ -21,12 +21,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+   - [x] A view to filter categories
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. A better way of implementing the search functionality.
+2. How to programmatically get the search button tap on keyboard?
 
 ## Video Walkthrough 
 
