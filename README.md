@@ -2,7 +2,7 @@
 
 **Yelp** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
-Time spent: **WIP** hours spent in total
+Time spent: 7 hours spent in total
 
 ## User Stories
 
@@ -33,13 +33,15 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/uDGPnmT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I couldn't find the correct method that is triggered for the search bar when 'Search' button is tapped. The app starts with searches of 'Thai' and displays 'Restaurants' once you have been to filters screen. The search functionality does work but it requires you to go to filters screen and click cancel or search.
 
 ## License
 
